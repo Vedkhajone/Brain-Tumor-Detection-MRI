@@ -90,8 +90,7 @@ Integrate explainable AI modules beyond Grad-CAM
 ---
 
 # 👨‍💻 Author
-
-Ved Khajone
-Driven by Curiosity.....
+Made with 💻 + 🧠 by Ved Khajone
 ---
+
 
